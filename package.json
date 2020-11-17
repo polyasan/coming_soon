@@ -1,0 +1,15 @@
+{
+  "name": "coming_soon",
+  "version": "1.0.0",
+  "description": "Triangulum astro coming soon page",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node server.js"
+  },
+  "author": "Laszlo Bulatco",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
